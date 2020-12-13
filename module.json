@@ -1,0 +1,13 @@
+{
+    "name": "sync-token-name",
+    "title": "Sync Token Name",
+    "description": "Simple module to syncronize actor names with token names. Works automatically, disable if you dont want to sync.",
+    "author": "Felipe Figueiredo",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    
+    "scripts": [
+        "scripts/start.js"
+    ]
+
+  }
