@@ -3,7 +3,7 @@
     "title": "Sync Token Names",
     "description": "Simple module to syncronize actor names with token names. Works automatically, disable it if you dont want to sync.",
     "author": "Felipe Figueiredo",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minimumCoreVersion": "0.6.6",
     "compatibleCoreVersion": "9",
     "url":"https://github.com/lipefl/sync-token-name",
