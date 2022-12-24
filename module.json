@@ -6,7 +6,7 @@
     "version": "1.0.3",
     "minimumCoreVersion": "0.6.6",
     "compatibleCoreVersion": "10",
-    "url":"https://github.com/lipefl/sync-token-name",
+    "url":"https://github.com/robinsving/sync-token-name",
     "manifest":"https://raw.githubusercontent.com/robinsving/sync-token-name/main/module.json",
     "download":"https://github.com/robinsving/sync-token-name/archive/main.zip",
     "scripts": [
